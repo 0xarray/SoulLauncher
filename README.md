@@ -1,6 +1,24 @@
-# SoulLauncher
+<div align="center">
 
-Starts **SoulWorker (Global)** on a **VFUN account** without the VFUN launcher.
+<img src=".github/logo.png" width="96" alt="SoulLauncher">
+
+# [SoulLauncher](https://discord.gg/7ynGDqcnPJ)
+
+**Play [SoulWorker](https://store.steampowered.com/app/1377580/Soulworker/) Global on your VFUN account — without the VFUN launcher.**
+
+Signs in the way VFUN does, and runs the game from your Steam install so updates come through Steam's fast downloads.
+
+![Platform](https://img.shields.io/badge/platform-Windows%20x64-0078D6)
+![Language](https://img.shields.io/badge/C%2B%2B-17-00599C)
+![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="48" alt="Buy me a coffee">](https://www.buymeacoffee.com/rainyyy)
+
+</div>
+
+---
+
+## What it does
 
 It signs in the way VFUN does, gets a one-time game auth code from Valofe, and starts the client with the same arguments VFUN passes. The game files can come from the **Steam** release (app 1377580), which is the same client and patches much faster, or from a VFUN install.
 

@@ -1,0 +1,2 @@
+// First icon in the file becomes the exe icon.
+IDI_APP ICON "SoulLauncher.ico"

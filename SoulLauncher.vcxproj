@@ -94,6 +94,12 @@
     <ClInclude Include="src\util.h" />
     <ClInclude Include="src\vfun.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="res\SoulLauncher.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\SoulLauncher.ico" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
